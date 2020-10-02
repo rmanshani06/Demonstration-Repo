@@ -55,7 +55,7 @@ nav li {
 
 }
 
-#boxa {
+#box1 {
     animation-name: fadeMe;
     animation-duration: 4s;
     animation-iteration-count: infinite;
@@ -69,7 +69,7 @@ nav li {
     100% {transform: rotate(360deg);}
 }
 
-#boxb {
+#box2 {
     animation-name: rotation;
     animation-duration: 2s;
     animation-iteration-count: 4s;
